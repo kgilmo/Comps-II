@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.9)  28 JAN 2016 22:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.9)  31 JAN 2016 23:31
 entering extended mode
 **"./Comps II.tex"
 ("Comps II.tex"
@@ -65,6 +65,24 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+("C:\Users\Kevin Gilmore\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ca
+ption.sty"
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+
+("C:\Users\Kevin Gilmore\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\ca
+ption3.sty"
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
 ("C:\Users\Kevin Gilmore\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\inde
 ntfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
@@ -76,22 +94,23 @@ Package: scicite 2003/11/04  v 4.01
 ("C:\Users\Kevin Gilmore\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\tim
 es.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
-) ("C:\Users\Kevin Gilmore\Dropbox\Comps II\build\Comps II.aux")
+)
+("E:\Kevin Gilmore\Documents\GitHub\Comps-II\Comps II\build\Comps II.aux")
 \openout1 = `"Comps II.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 67.
 
 ("C:\Users\Kevin Gilmore\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1
 ptm.fd"
@@ -100,26 +119,28 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ("C:\Users\Kevin Gilmore\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\sup
 p-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count88
-\scratchdimen=\dimen105
+\scratchcounter=\count89
+\scratchdimen=\dimen112
 \scratchbox=\box26
-\nofMPsegments=\count89
-\nofMParguments=\count90
+\nofMPsegments=\count90
+\nofMParguments=\count91
 \everyMPshowfont=\toks15
-\MPscratchCnt=\count91
-\MPscratchDim=\dimen106
-\MPnumerator=\count92
-\makeMPintoPDFobject=\count93
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen113
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
 \everyMPtoPDFconversion=\toks16
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 78.
+(Font)              <14.4> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 78.
+(Font)              <7> on input line 75.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 84.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 81.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 89.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
  [1
 
 {C:/Users/Kevin Gilmore/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
@@ -127,99 +148,101 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 File: Isingchialvo.png Graphic file (type png)
 
 <use Isingchialvo.png>
-Package pdftex.def Info: Isingchialvo.png used on input line 107.
+Package pdftex.def Info: Isingchialvo.png used on input line 104.
 (pdftex.def)             Requested size: 455.24408pt x 119.05663pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 117.
+(Font)              <12> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 117.
+(Font)              <8> on input line 114.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 117.
+(Font)              <6> on input line 114.
  [3]
-<earthquakesandavalanchessethna.png, id=16, 341.02406pt x 280.04625pt>
-File: earthquakesandavalanchessethna.png Graphic file (type png)
+<sethnaRGquakes.png, id=16, 428.35031pt x 487.8225pt>
+File: sethnaRGquakes.png Graphic file (type png)
+ <use sethnaRGquakes.png>
+Package pdftex.def Info: sethnaRGquakes.png used on input line 118.
+(pdftex.def)             Requested size: 136.5746pt x 155.53323pt.
 
-<use earthquakesandavalanchessethna.png>
-Package pdftex.def Info: earthquakesandavalanchessethna.png used on input line 
-121.
-(pdftex.def)             Requested size: 273.14922pt x 224.31932pt.
- [4 <./Isingchialvo.png>] [5 <./earthquakesandavalanchessethna.png>]
+[4 <./Isingchialvo.png>] [5 <./sethnaRGquakes.png>]
 <Branchingprocesschialvo.png, id=30, 338.76563pt x 287.57437pt>
 File: Branchingprocesschialvo.png Graphic file (type png)
 
 <use Branchingprocesschialvo.png>
-Package pdftex.def Info: Branchingprocesschialvo.png used on input line 140.
-(pdftex.def)             Requested size: 295.90587pt x 251.20131pt.
+Package pdftex.def Info: Branchingprocesschialvo.png used on input line 137.
+(pdftex.def)             Requested size: 250.38562pt x 212.55597pt.
  [6] [7 <./Branchingprocesschialvo.png>]
 <originalavalancheplenz.png, id=40, 272.51813pt x 222.8325pt>
 File: originalavalancheplenz.png Graphic file (type png)
 
 <use originalavalancheplenz.png>
-Package pdftex.def Info: originalavalancheplenz.png used on input line 154.
-(pdftex.def)             Requested size: 295.90587pt x 241.97137pt.
+Package pdftex.def Info: originalavalancheplenz.png used on input line 151.
+(pdftex.def)             Requested size: 273.14922pt x 223.36237pt.
 
 <avalanchesplenzbook.png, id=41, 426.09187pt x 262.73157pt>
 File: avalanchesplenzbook.png Graphic file (type png)
 
 <use avalanchesplenzbook.png>
-Package pdftex.def Info: avalanchesplenzbook.png used on input line 162.
-(pdftex.def)             Requested size: 409.71689pt x 252.64838pt.
- [8 <./originalavalancheplenz.png>] [9 <./avalanchesplenzbook.png>]
-<dynamicrangetheorycopelli.png, id=50, 448.67625pt x 298.11375pt>
+Package pdftex.def Info: avalanchesplenzbook.png used on input line 159.
+(pdftex.def)             Requested size: 318.66946pt x 196.50697pt.
+ [8 <./originalavalancheplenz.png>]
+<dynamicrangetheorycopelli.png, id=46, 448.67625pt x 298.11375pt>
 File: dynamicrangetheorycopelli.png Graphic file (type png)
 
 <use dynamicrangetheorycopelli.png>
-Package pdftex.def Info: dynamicrangetheorycopelli.png used on input line 178.
-(pdftex.def)             Requested size: 364.19664pt x 241.98938pt.
- [10 <./dynamicrangetheorycopelli.png>]
+Package pdftex.def Info: dynamicrangetheorycopelli.png used on input line 173.
+(pdftex.def)             Requested size: 295.90587pt x 196.61467pt.
+ [9 <./avalanchesplenzbook.png>] [10 <./dynamicrangetheorycopelli.png>]
 <dynamicrangeexpplenz.png, id=55, 237.13594pt x 148.30406pt>
 File: dynamicrangeexpplenz.png Graphic file (type png)
 
 <use dynamicrangeexpplenz.png>
-Package pdftex.def Info: dynamicrangeexpplenz.png used on input line 190.
+Package pdftex.def Info: dynamicrangeexpplenz.png used on input line 187.
 (pdftex.def)             Requested size: 227.62204pt x 142.35895pt.
 
 <entropyplenz.png, id=56, 192.72pt x 158.09062pt>
 File: entropyplenz.png Graphic file (type png)
  <use entropyplenz.png>
-Package pdftex.def Info: entropyplenz.png used on input line 198.
+Package pdftex.def Info: entropyplenz.png used on input line 195.
 (pdftex.def)             Requested size: 182.09485pt x 149.37471pt.
 
-[11 <./dynamicrangeexpplenz.png>]
-<isinglikedynamicschialvo.png, id=61, 510.40688pt x 303.38344pt>
+[11 <./dynamicrangeexpplenz.png>] [12 <./entropyplenz.png>]
+<isinglikedynamicschialvo.png, id=66, 510.40688pt x 303.38344pt>
 File: isinglikedynamicschialvo.png Graphic file (type png)
 
 <use isinglikedynamicschialvo.png>
-Package pdftex.def Info: isinglikedynamicschialvo.png used on input line 211.
+Package pdftex.def Info: isinglikedynamicschialvo.png used on input line 216.
 (pdftex.def)             Requested size: 364.19664pt x 216.48698pt.
- [12 <./entropyplenz.png>] [13 <./isinglikedynamicschialvo.png>] ("C:\Users\Kev
-in Gilmore\Dropbox\Comps II\build\Comps II.bbl" [14] [15]) [16] ("C:\Users\Kevi
-n Gilmore\Dropbox\Comps II\build\Comps II.aux") ) 
+ [13] [14 <./isinglikedynamicschialvo.png>]
+("E:\Kevin Gilmore\Documents\GitHub\Comps-II\Comps II\build\Comps II.bbl"
+[15] [16]) [17]
+("E:\Kevin Gilmore\Documents\GitHub\Comps-II\Comps II\build\Comps II.aux") ) 
 Here is how much of TeX's memory you used:
- 1330 strings out of 493634
- 19592 string characters out of 3131974
- 75335 words of memory out of 3000000
- 4725 multiletter control sequences out of 15000+200000
+ 2390 strings out of 493634
+ 38938 string characters out of 3131974
+ 100446 words of memory out of 3000000
+ 5779 multiletter control sequences out of 15000+200000
  17487 words of font info for 39 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,9n,21p,2621b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Kevin Gilmore/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Users/Kevin Gil
-more/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pf
-b><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmmi8.pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Kevin Gilmore/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Kevin Gi
-lmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Kevin Gilmore/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Kevin Gilmore/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "C:/Users/Kevin Gilmore/Dropbox/Comps II/build/Comps II.pdf" 
-(16 pages, 656801 bytes).
+ 36i,11n,38p,2646b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:
+/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname
+/8r.enc}<C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmex10.pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Kevin Gilmore/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users
+/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr12.pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Kevin Gilmore/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
+s/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
+pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/t
+imes/utmr8a.pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on "E:/Kevin Gilmore/Documents/GitHub/Comps-II/Comps II/build/Co
+mps II.pdf" (17 pages, 651349 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
