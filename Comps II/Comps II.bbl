@@ -74,4 +74,24 @@ D.~Fraiman, P.~Balenzuela, J.~Foss, and D.~R. Chialvo, ``{Ising-like dynamics
 M.~P.~H. Stumpf and M.~a. Porter, ``{Critical Truths About Power Laws},'' {\em
   Science}, vol.~335, no.~6069, pp.~665--666, 2012.
 
+\bibitem{Levina2007a}
+A.~Levina, J.~M. Herrmann, and T.~Geisel, ``{Dynamical synapses causing
+  self-organized criticality in neural networks},'' {\em Nature Physics},
+  vol.~3, pp.~857--860, dec 2007.
+
+\bibitem{Levina2009a}
+A.~Levina, J.~M. Herrmann, and T.~Geisel, ``{Phase transitions towards
+  criticality in a neural system with adaptive interactions},'' {\em Physical
+  Review Letters}, vol.~102, no.~11, pp.~1--4, 2009.
+
+\bibitem{Bornholdt2003a}
+S.~Bornholdt and T.~R{\"{o}}hl, ``{Self-organized critical neural networks.},''
+  {\em Physical review. E, Statistical, nonlinear, and soft matter physics},
+  vol.~67, no.~6 Pt 2, p.~066118, 2003.
+
+\bibitem{Rybarsch2014a}
+M.~Rybarsch and S.~Bornholdt, ``{Avalanches in self-organized critical neural
+  networks: A minimal model for the neural SOC universality class},'' {\em PLoS
+  ONE}, vol.~9, no.~4, pp.~3--5, 2014.
+
 \end{thebibliography}
