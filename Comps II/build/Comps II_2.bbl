@@ -25,13 +25,13 @@ W.~L. Shew, H.~Yang, S.~Yu, R.~Roy, and D.~Plenz, ``{Information capacity and
   avalanches.},'' {\em The Journal of neuroscience : the official journal of
   the Society for Neuroscience}, vol.~31, no.~1, pp.~55--63, 2011.
 
-\bibitem{Sethna2011a}
-J.~P. Sethna, {\em {Entropy, Order Parameters and Complexity}}, vol.~2.
-\newblock 2011.
-
 \bibitem{Chialvo2010a}
 D.~R. Chialvo, ``{Emergent complex neural dynamics},'' {\em Nature Physics},
   vol.~6, no.~10, pp.~744--750, 2010.
+
+\bibitem{Sethna2011a}
+J.~P. Sethna, {\em {Entropy, Order Parameters and Complexity}}, vol.~2.
+\newblock 2011.
 
 \bibitem{Watson2014}
 H.~W. Watson and F.~Galton, ``{On the Probability of the Extinction of
@@ -47,6 +47,11 @@ D.~B. Larremore, W.~L. Shew, and J.~G. Restrepo, ``{Critical Dynamics in
 \bibitem{Chialvo2006a}
 D.~R. Chialvo, ``{Psychophysics: Are our senses critical?},'' {\em Nat Phys},
   vol.~2, no.~5, pp.~301--302, 2006.
+
+\bibitem{Fraiman2009a}
+D.~Fraiman, P.~Balenzuela, J.~Foss, and D.~R. Chialvo, ``{Ising-like dynamics
+  in large-scale functional brain networks},'' {\em Physical Review E},
+  vol.~79, no.~6, p.~061922, 2009.
 
 \bibitem{Plenz2014}
 D.~Plenz, ``{Criticality in Cortex: Neuronal Avalanches and Coherence
@@ -64,11 +69,6 @@ D.~B. Larremore, M.~Y. Carpenter, E.~Ott, and J.~G. Restrepo, ``{Statistical
   properties of avalanches in networks},'' {\em Physical Review E -
   Statistical, Nonlinear, and Soft Matter Physics}, vol.~85, no.~6, pp.~1--11,
   2012.
-
-\bibitem{Fraiman2009a}
-D.~Fraiman, P.~Balenzuela, J.~Foss, and D.~R. Chialvo, ``{Ising-like dynamics
-  in large-scale functional brain networks},'' {\em Physical Review E},
-  vol.~79, no.~6, p.~061922, 2009.
 
 \bibitem{Stumpf2012a}
 M.~P.~H. Stumpf and M.~a. Porter, ``{Critical Truths About Power Laws},'' {\em
