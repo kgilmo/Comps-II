@@ -1,0 +1,240 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.26)  19 FEB 2016 16:37
+entering extended mode
+**Comps*II_2.tex
+("C:\Users\kag3\Documents\GitHub\Comps-II\Comps II\Comps II_2.tex"
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
+ty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
+ty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.c
+fg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.d
+ef"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarer
+r.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.
+sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+"
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.st
+y"
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.s
+ty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) ("C:\Users\kag3\Documents\GitHub\Comps-II\Comps II\scicite.sty"
+LaTeX Info: Redefining \cite on input line 160.
+LaTeX Info: Redefining \nocite on input line 227.
+Package: scicite 2003/11/04  v 4.01
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\kag3\Documents\GitHub\Comps-II\Comps II\Comps II_2.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 65.
+
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\kag3\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mki
+i"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen112
+\scratchbox=\box26
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen113
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks16
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 73.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 73.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 75.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 79.
+ [1
+
+{C:/Users/kag3/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 95.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 95.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 95.
+
+[3] [4] <Isingchialvo.png, id=22, 555.57562pt x 145.29282pt>
+File: Isingchialvo.png Graphic file (type png)
+
+<use Isingchialvo.png>
+Package pdftex.def Info: Isingchialvo.png used on input line 109.
+(pdftex.def)             Requested size: 455.24408pt x 119.05663pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 110.
+ [5 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/Isingchialvo.png>] [6]
+<Branchingprocesschialvo.png, id=33, 338.76563pt x 287.57437pt>
+File: Branchingprocesschialvo.png Graphic file (type png)
+
+<use Branchingprocesschialvo.png>
+Package pdftex.def Info: Branchingprocesschialvo.png used on input line 129.
+(pdftex.def)             Requested size: 318.66946pt x 270.52618pt.
+ [7 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/Branchingprocesschialvo.p
+ng>]
+<isinglikedynamicschialvo.png, id=40, 510.40688pt x 303.38344pt>
+File: isinglikedynamicschialvo.png Graphic file (type png)
+
+<use isinglikedynamicschialvo.png>
+Package pdftex.def Info: isinglikedynamicschialvo.png used on input line 140.
+(pdftex.def)             Requested size: 364.19664pt x 216.48698pt.
+ [8 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/isinglikedynamicschialvo.
+png>]
+<originalavalancheplenz.png, id=45, 272.51813pt x 222.8325pt>
+File: originalavalancheplenz.png Graphic file (type png)
+
+<use originalavalancheplenz.png>
+Package pdftex.def Info: originalavalancheplenz.png used on input line 154.
+(pdftex.def)             Requested size: 273.14922pt x 223.36237pt.
+
+<avalanchesplenzbook2.png, id=46, 316.93407pt x 261.97874pt>
+File: avalanchesplenzbook2.png Graphic file (type png)
+
+<use avalanchesplenzbook2.png>
+Package pdftex.def Info: avalanchesplenzbook2.png used on input line 162.
+(pdftex.def)             Requested size: 455.24408pt x 376.33768pt.
+ [9] [10 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/originalavalancheple
+nz.png>] [11 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/avalanchesplenzb
+ook2.png>]
+<dynamicrangetheorycopelli.png, id=58, 448.67625pt x 298.11375pt>
+File: dynamicrangetheorycopelli.png Graphic file (type png)
+
+<use dynamicrangetheorycopelli.png>
+Package pdftex.def Info: dynamicrangetheorycopelli.png used on input line 179.
+(pdftex.def)             Requested size: 455.24408pt x 302.489pt.
+ [12] [13 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/dynamicrangetheoryc
+opelli.png>]
+<dynamicrangeexpplenz.png, id=67, 237.13594pt x 148.30406pt>
+File: dynamicrangeexpplenz.png Graphic file (type png)
+
+<use dynamicrangeexpplenz.png>
+Package pdftex.def Info: dynamicrangeexpplenz.png used on input line 198.
+(pdftex.def)             Requested size: 273.14922pt x 170.83345pt.
+
+<entropyplenz.png, id=68, 192.72pt x 158.09062pt>
+File: entropyplenz.png Graphic file (type png)
+ <use entropyplenz.png>
+Package pdftex.def Info: entropyplenz.png used on input line 206.
+(pdftex.def)             Requested size: 227.62204pt x 186.72139pt.
+
+[14 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/dynamicrangeexpplenz.png>
+] [15 <C:/Users/kag3/Documents/GitHub/Comps-II/Comps II/entropyplenz.png>]
+[16] ("C:\Users\kag3\Documents\GitHub\Comps-II\Comps II\Comps II_2.bbl"
+[17] [18]) [19]
+("C:\Users\kag3\Documents\GitHub\Comps-II\Comps II\Comps II_2.aux") ) 
+Here is how much of TeX's memory you used:
+ 2393 strings out of 493643
+ 38571 string characters out of 3135817
+ 98446 words of memory out of 3000000
+ 5777 multiletter control sequences out of 15000+200000
+ 19116 words of font info for 41 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 36i,11n,38p,1544b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/
+kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/User
+s/kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.
+pfb><C:/Users/kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/Users/kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi8.pfb><C:/Users/kag3/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/kag3/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/kag3/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/kag3/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/User
+s/kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/U
+sers/kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><
+C:/Users/kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pf
+b><C:/Users/kag3/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8
+a.pfb>
+Output written on "Comps II_2.pdf" (19 pages, 580526 bytes).
+PDF statistics:
+ 126 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
