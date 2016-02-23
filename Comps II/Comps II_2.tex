@@ -76,7 +76,7 @@
 
 \begin{sciabstract}
 
-No comprehensive model of the brain exists. Recent results in experimental and theoretical neuroscience indicate the brain may be operating at a critical point in a continuous phase transition. Methods in statistical physics are able to shed some light on this phenomenon. This paper provides a review of how models abstracted of biological details that consider networks of excitable elements at criticality capture the emergent, macroscopic behavior of the brain.
+No comprehensive model of the brain exists. Recent results in experimental and theoretical neuroscience indicate the brain may be operating at a critical point in a continuous phase transition. Methods in statistical physics are able to shed some light on this phenomenon. This paper provides a review of how models abstracted of biological details that consider networks of excitable elements at criticality capture some of the emergent, macroscopic behavior of the brain.
 
 \end{sciabstract}
 
@@ -88,7 +88,7 @@ The human brain is amazingly complex. Comprised of tens of billions of neurons w
 
 However, mere interest does not suffice. Does physics really have something to contribute to the field of neuroscience in the context of neuronal networks? In the course of this paper, I will argue that it does. The facts that networks of excitable elements operating at criticality benefit from maximal dynamic range \cite{Kinouchi2006b,Shew2009b} and information capacity\cite{Shew2011a} show that a statistical mechanical approach to understanding neuronal networks, and thus the brain, has functional value.
 
-\paragraph*{Overview} In this paper I will discuss recent work in the emerging subfield of criticality in neural systems. Work in this field combines experimental neuroscience, complex systems, and graph theory in the context of statistical physics. To understand the human brain, and thus our behavior and cognition, necessitates the elucidation of the patterns of spatiotemporal brain activity that arise out of collective neural dynamics. To this end, the tools of statistical mechanics, and in particular those dealing with critical phenomena, may be of great use.
+\paragraph*{Overview} In this paper I will discuss recent work in the emerging subfield of criticality in neural systems. Work in this field combines experimental neuroscience, complex systems, and network theory in the context of statistical physics. To understand the human brain, and thus our behavior and cognition, necessitates the elucidation of the patterns of spatiotemporal brain activity that arise out of collective neural dynamics. To this end, the tools of statistical mechanics, and in particular those dealing with critical phenomena, may be of great use.
 
 The structure of the paper is as follows. First, I review relevant background information from the physics of phase transitions as well as network theory. Then, I explain how a simple microscopic model - the Ising model - reproduces macroscopic network behavior observed in the brain. Next is a description of the experimental observation of neuronal avalanches following a power-law scaling, which is the main evidence of the brain operating at a critical point in a continuous phase transition. Finally, I discuss how this model explains the brain's large information capacity and dynamic range.
 
@@ -109,8 +109,6 @@ The 2D Ising model is one of the simplest models demonstrating a continuous phas
 \noindent where the sum $(ij)$ is over all pairs of nearest-neighbor sites. In the context of magnetism, $H$ is the external field and the sum $M=\sum\limits_{i} s_{i}$ is the magnetization. In the case of no external field, as its temperature is increased a magnet may undergo a second order phase transition from ferromagnetic to paramagnetic. As the system approaches a critical temperature the magnetization vanishes continuously. At the critical temperature, the magnetization fluctuates wildly corresponding to neither an ordered ferromagnetic nor disordered paramagnetic state.
 
 Two main features of continuous phase transitions are scale-invariance and universality. Scale invariance means the system is statistically invariant under changes in length scale, which occurs when the correlation length is infinite. Thus, fluctuations occur at all scales. Universality signifies a lack of dependence on microscopic properties near the critical point. As a result, widely different microscopic systems can display the same macroscopic behavior at a phase transition. The same scale-invariant theory can be used to describe many different systems. Properties such as susceptibility, specific heat, and correlation length have power law singularities at the critical point. The critical exponents corresponding to these power laws  may be shared between seemingly disparate systems such as ferromagnets and liquid-gas systems, which as a result may both be modeled by the Ising model. These features of continuous phase transitions at the critical point are collectively referred to as critical phenomena.
-
-In much the same way ferromagnetism emerges from the interactions of spins, the mind may be an emergent property of neuronal interactions. 
 
 \begin{figure}      
   \begin{center}    
@@ -137,15 +135,8 @@ Often, complex systems comprised of numerous interacting parts - such as the bra
    \label{Figure::Critical Branching Process}   
   \end{center}     
    \end{figure}
+   
 The propagation of activity in networks is often modeled with branching processes. Branching processes were originally studied in the context of the survival of aristocratic family names in the Victorian era\cite{Watson2014}, and more recently in understanding the propagation of disease. An excited node branches to each other node with some probability, the sum of which is known as the branching ratio. In the case of a critical branching process, the branching ratio is equal to one. The propagation of excitations in a branching process behaves as the avalanches previously described. In the critical regime, both the size $s$ and duration $t$ of the avalanches follow power laws $ D(s) \sim s^{-3/2} $ and $ D(t) \sim t^{-2} $, respectively \cite{Larremore2014}. Should the average number of active nodes increase (decrease), the process is dubbed supercritical (subcritical) - as illustrated in Figure \ref{Figure::Critical Branching Process}. 
-
-\begin{figure}      
-  \begin{center}    
- \includegraphics[width=.8\textwidth]{isinglikedynamicschialvo}    
-    \caption{\textbf{Ising-like dynamics of the brain \cite{Fraiman2009a}.} Degree distributions from fMRI brain data (bottom) and Ising model (top) at temperatures $T$ corresponding to subcritical ($T=2$), critical ($T=2.3$), and supercritical ($T=3$). Black, red, and green curves correspond to average network degrees of 713, 127, and 26, respectively.}
-   \label{Figure::Ising model and the brain at criticality}   
-  \end{center}     
-   \end{figure}
    
 \section*{The Ising model and the brain}
 
@@ -153,15 +144,23 @@ Certain macroscopic phenomenological features of the brain can be replicated by 
 
 \begin{figure}      
   \begin{center}    
- \includegraphics[width=.6\textwidth]{originalavalancheplenz}    
-    \caption{\textbf{Size distribution of neuronal avalanches} in cortical cultured networks follows a power law with exponent of approximately -3/2 (dashed line) \cite{Beggs2003b}. Insets indicate number of electrodes, and thus network size. Avalanches occur up to the system size.}
-   \label{Figure::Neuronal Avalanches}   
+ \includegraphics[width=.8\textwidth]{isinglikedynamicschialvo}    
+    \caption{\textbf{Ising-like dynamics of the brain \cite{Fraiman2009a}.} Degree distributions from fMRI brain data (bottom) and Ising model (top) at temperatures $T$ corresponding to subcritical ($T=2$), critical ($T=2.3$), and supercritical ($T=3$). Black, red, and green curves correspond to average network degrees of 713, 127, and 26, respectively. fMRI data was taken from five human subjects in a resting state. fMRI yields a three dimensional brain oxygen level dependent (BOLD) signal for 64x64x49 sites. The BOLD signal is indicative of the activity level in the brain.}
+   \label{Figure::Ising model and the brain at criticality}   
   \end{center}     
    \end{figure}
    
 \section*{Neuronal avalanches}
 
-In general, complex systems, such as networks of neurons, are characterized by two phases: a noisy, chaotic state with very weak interactions and a frozen, static state with very strong interactions - with a mediating critical junction. The brain must maintain some order to ensure consistent behavioral responses to particular stimuli as well as some degree of disorder to enable flexibility in the form of adaptive changes to a dynamic environment, implying it operates at criticality \cite{Bak1987a}. Experiments such as the previously discussed Ising model comparison lend further weight to this notion. Experimental demonstration of neuronal avalanches gives further, more robust evidence of the brain functioning at a critical point.
+In general, complex systems, such as networks of neurons, are characterized by two phases: a noisy, chaotic state with very weak interactions and a frozen, static state with very strong interactions - with a mediating critical junction. The brain must maintain some order to ensure consistent behavioral responses to particular stimuli as well as some degree of disorder to enable flexibility in the form of adaptive changes to a dynamic environment, suggesting it operates at criticality \cite{Bak1987a}. Experiments such as the previously discussed Ising model comparison lend further weight to this notion. Experimental demonstration of neuronal avalanches gives more robust evidence of the brain functioning at a critical point.
+
+\begin{figure}      
+  \begin{center}    
+ \includegraphics[width=.5\textwidth]{originalavalancheplenz}    
+    \caption{\textbf{Size distribution of neuronal avalanches} in slices of rat cortex grown on microelectrode arrays of size $n$ follows a power law with exponent of approximately -3/2 (dashed line) \cite{Beggs2003b}. Avalanches occur up to the system size.}
+   \label{Figure::Neuronal Avalanches}   
+  \end{center}     
+   \end{figure}
 
 \begin{figure}   
   \begin{center}    
@@ -182,14 +181,14 @@ Any theory purported to describe neuronal networks should account for what we kn
 \begin{figure}      
   \begin{center}    
  \includegraphics[width=1\textwidth]{dynamicrangetheorycopelli}    
-    \caption{\textbf{Simulations of response curves and dynamic range} for generic model of network of interacting, excitable elements \cite{Kinouchi2006b}. \textbf{(a, b)} Average activity $F$ (i.e. number of excited elements) versus stimulus rate $r$ (both in units of $ms^{-1}$) with branching parameters from $\sigma = 0$ to 2 in intervals of 0.2. The data is represented with logarithmic and linear scales in \textbf{(a)} and \textbf{(b)}, respectively. \textbf{(c)} Response curve for $\sigma = 1.2$ with dynamic range $\Delta$ from $10\%$ to $90\%$ of saturated response $F_{max}$. \textbf{(d)} Dynamic range $\Delta$ in dB versus branching ratio $\sigma$. Optimization occurs at the critical point $\sigma = 1$.}
+    \caption{\textbf{Simulations of response curves and dynamic range} for a generic model of network of interacting, excitable elements \cite{Kinouchi2006b}. \textbf{(a, b)} Average activity $F$ (i.e. mean excitation rate) versus stimulus rate $r$ (both in units of $ms^{-1}$) with branching parameters from $\sigma = 0$ to 2 in intervals of 0.2. The data is presented with logarithmic and linear scales in \textbf{(a)} and \textbf{(b)}, respectively. Inset \textbf{a}: spontaneous activity (no external stimulus) $F_{0}$ versus branching ratio $\sigma$. \textbf{(c)} Response curve for $\sigma = 1.2$ with dynamic range $\Delta$ from $10\%$ to $90\%$ of saturated response $F_{max}$. \textbf{(d)} Dynamic range $\Delta$ in dB versus branching ratio $\sigma$. Optimization occurs at the critical point $\sigma = 1$.}
    \label{Figure::Dynamic Range Theory}   
   \end{center}     
    \end{figure}
    
 The intensity of human-detectable physical stimuli, such as light and sound, varies by several orders of magnitude. For hearing the dynamic range is on the order of 140 dB, for sight it is 90 dB. This very large dynamic range must be accounted for in the model. Since single neurons respond in a linear, saturating way with a limited range, the broad dynamic range must be a collective phenomena \cite{Kinouchi2006b}. Kinouchi and Copelli demonstrated computationally (see Figure \ref{Figure::Dynamic Range Theory}) that a network of excitable elements, such as a neuronal network, has its dynamic range and sensitivity maximized at its critical point during a continuous phase transition\cite{Kinouchi2006b}. This finding is consistent with and lends further credence to the brain operating at criticality. The dynamic range is calculated from the $10\%-90\%$ response interval and is seen to be maximized at the critical branching ratio. In the subcritical regime, the dynamic range increases with the branching ratio. In the supercritical regime, the dynamic range decreases with the branching ratio \cite{Larremore2011a, Larremore2012a}.
 
-The ability of a neuronal network to process information is determined by the neural activity it produces. Activity patterns in cortex cultures, anesthetized rats, and awake monkeys were measured to quantify their dynamic range (Figure \ref{Figure::Dynamic Range Experiment}) and information capacity (Figure \ref{Figure::Entropy / information maximized experimental}). Experiments have demonstrated that networks generating neuronal avalanches benefit from maximized dynamic range\cite{Shew2009b}. By measuring the responses to a range of stimuli amplitudes, the dynamic range was computed by way of the same response interval as in the theoretical approach.
+The ability of a neuronal network to process information is determined by the neural activity it produces. Activity patterns in cortex cultures, anesthetized rats, and awake monkeys were measured to quantify their dynamic range (Figure \ref{Figure::Dynamic Range Experiment}) and information capacity (Figure \ref{Figure::Entropy / information maximized experimental}). Experiments have demonstrated that networks generating neuronal avalanches benefit from maximized dynamic range\cite{Shew2009b}. By measuring the responses to a range of stimuli amplitudes, the dynamic range was computed from the response interval as in the theoretical approach.
    
 In a similar study, the information capacity was measured and found to be maximized at a balanced ratio corresponding to the emergence of neuronal avalanches by changing the ratio of excitation to inhibition in these subjects by way of excitory and inhibitory drugs \cite{Shew2011a}. Multielectrode arrays comprised of an 8x8 grid of electrodes were used to record events, with 1 bit assigned to each electrode. Thus, different activity levels correspond to distinct binary patterns. Information capacity can be quantified by calculating the Shannon entropy, defined as
 
@@ -202,7 +201,7 @@ H = - \sum^{n}_{i=1}p_{i}\log_{2}p_{i},
 \begin{figure}      
   \begin{center}    
  \includegraphics[width=.6\textwidth]{dynamicrangeexpplenz}    
-    \caption{\textbf{Dynamic range \cite{Shew2009b}.} Experimental data taken with no administered drug (black) a drug that reduces inhibition (red) and a drug that reduces excitation (blue). Dynamic range peaks near $\kappa = 1$. $\kappa$ is a measure of the difference between experimental results and theoretical reference and is nearly linearly related to the branching parameter $\sigma$. $\kappa \cong 1$ corresponds to the critical regime where $\sigma = 1$. Black line indicates binned average of points. Shared symbol shape indicates paired measurements: no drug condition measured just before the drug condition. Circles represent unpaired measurements.}
+    \caption{\textbf{Dynamic range \cite{Shew2009b}.} Experimental data taken from slices of rat cortex grown on an 8x8 microelectrode array with no administered drug (black) a drug that reduces inhibition (red) and a drug that reduces excitation (blue). Dynamic range peaks near $\kappa = 1$. $\kappa$ is a measure of the difference between experimental results and theoretical reference and is nearly linearly related to the branching parameter $\sigma$. $\kappa \cong 1$ corresponds to the critical regime where $\sigma = 1$. Black line indicates binned average of points. Shared symbol shape indicates paired measurements: no drug condition measured just before the drug condition. Circles represent unpaired measurements.}
     
    \label{Figure::Dynamic Range Experiment}   
   \end{center}     
@@ -211,7 +210,7 @@ H = - \sum^{n}_{i=1}p_{i}\log_{2}p_{i},
 \begin{figure}      
   \begin{center}    
  \includegraphics[width=.50\textwidth]{entropyplenz}    
-    \caption{\textbf{Information capacity \cite{Shew2011a}.} Experimental data taken with no administered drug (black) a drug that reduces inhibition (red) and a drug that reduces excitation (blue). Information (i.e. Shannon) entropy $H$ is maximized around $\kappa = 1$. Grey line indicates binned average of points.}
+    \caption{\textbf{Information capacity \cite{Shew2011a}.} Experimental data taken from slices of rat cortex grown on an 8x8 microelectrode array with no administered drug (black) a drug that reduces inhibition (red) and a drug that reduces excitation (blue). Information (i.e. Shannon) entropy $H$ is maximized around $\kappa = 1$. Grey line indicates binned average of points.}
    \label{Figure::Entropy / information maximized experimental}   
   \end{center}     
    \end{figure}
@@ -224,9 +223,9 @@ To summarize these experimental and theoretical findings, neuronal avalanches wi
 
 There is real functional benefit and thus reason for neuronal networks to operate at criticality: their dynamic range and information capacity is maximized. Thus there is biologically and evolutionarily motivated physical insight into the workings of the brain to be found in the study of criticality in neural systems.
 
-Even if empirical data supports modeling neuronal networks as operating at criticality and doing so has explanatory power, it is not clear how this could be the case. Typically, phase transitions occur as a result of the fine-tuning of an external parameter, such as temperature. Clearly there is no external mechanism doing this fine-tuning in the case of the brain. 
+Even if empirical data supports modeling neuronal networks as operating at criticality and doing so has explanatory power, the mechanism for generating a critical state is not clear. Typically, phase transitions occur as a result of the fine-tuning of an external parameter, such as temperature. Clearly there is no external mechanism doing this fine-tuning in the case of the brain. 
 
-An interesting exception to this fine-tuning requirement is a dynamical system whose critical point acts as an attractor. In such a system, no fine tuning is necessary and despite starting far from equilibrium the critical regime may be reached. Bak's sandpile model\cite{Bak1987a} was the first example of a dynamical system displaying such self-organized criticality. Grains of sand are gradually and randomly added to a pile. As the sandpile grows, if the slope becomes too large the pile will collapse via an avalanche. The cycle of growth and collapse continues until the slope reaches a point wherein the pile is barely stable to small perturbations. Apparently this system is attracted to its critical point with no tuning of an external parameter - unlike more typical examples of critical phenomena. Such a system is said to exhibit self-organized criticality.
+An interesting exception to this fine-tuning requirement is a dynamical system whose critical point acts as an attractor. In such a system, no fine tuning is necessary and despite starting far from equilibrium the critical regime is reached. Bak's sandpile model\cite{Bak1987a} was the first example of a dynamical system displaying such self-organized criticality. Grains of sand are gradually and randomly added to a pile. As the sandpile grows, if the slope becomes too large the pile will collapse via an avalanche. The cycle of growth and collapse continues until the slope reaches a point wherein the pile is barely stable to small perturbations. Apparently this system is attracted to its critical point with no tuning of an external parameter - unlike more typical examples of critical phenomena. Such a system is said to exhibit self-organized criticality.
    
 Though the generative mechanism for self-organized criticality in the brain is not known (nor within the scope of this paper), several theoretical models involving dynamical synapses have been proposed and confirmed to exhibit the desired effects \cite{Levina2007a, Levina2009a, Bornholdt2003a, Rybarsch2014a}. It seems plausible that the brain could exhibit self-organized criticality, thereby removing the need for any fine-tuning.
 
