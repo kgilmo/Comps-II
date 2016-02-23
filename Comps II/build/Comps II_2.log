@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.9)  20 FEB 2016 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.9)  21 FEB 2016 19:09
 entering extended mode
 **"./Comps II_2.tex"
 ("Comps II_2.tex"
@@ -172,52 +172,53 @@ File: isinglikedynamicschialvo.png Graphic file (type png)
 <use isinglikedynamicschialvo.png>
 Package pdftex.def Info: isinglikedynamicschialvo.png used on input line 146.
 (pdftex.def)             Requested size: 364.19664pt x 216.48698pt.
+
+<originalavalancheplenz.png, id=41, 272.51813pt x 222.8325pt>
+File: originalavalancheplenz.png Graphic file (type png)
+
+<use originalavalancheplenz.png>
+Package pdftex.def Info: originalavalancheplenz.png used on input line 154.
+(pdftex.def)             Requested size: 273.14922pt x 223.36237pt.
  [8 <./isinglikedynamicschialvo.png>]
-Overfull \hbox (11.90895pt too wide) in paragraph at lines 156--157
+Overfull \hbox (11.90895pt too wide) in paragraph at lines 164--165
 []\OT1/ptm/m/n/12 In 2003, the first ex-per-i-men-tal ev-i-dence that neu-ronal
  ac-tiv-ity does in-volve neu-ronal avalanches
  []
 
-<originalavalancheplenz.png, id=45, 272.51813pt x 222.8325pt>
-File: originalavalancheplenz.png Graphic file (type png)
+[9 <./originalavalancheplenz.png>]
+<avalanchesplenzbook3.png, id=50, 316.93407pt x 261.97874pt>
+File: avalanchesplenzbook3.png Graphic file (type png)
 
-<use originalavalancheplenz.png>
-Package pdftex.def Info: originalavalancheplenz.png used on input line 160.
-(pdftex.def)             Requested size: 273.14922pt x 223.36237pt.
-
-<avalanchesplenzbook2.png, id=46, 316.93407pt x 261.97874pt>
-File: avalanchesplenzbook2.png Graphic file (type png)
-
-<use avalanchesplenzbook2.png>
-Package pdftex.def Info: avalanchesplenzbook2.png used on input line 168.
+<use avalanchesplenzbook3.png>
+Package pdftex.def Info: avalanchesplenzbook3.png used on input line 168.
 (pdftex.def)             Requested size: 455.24408pt x 376.33768pt.
- [9] [10 <./originalavalancheplenz.png>] [11 <./avalanchesplenzbook2.png>]
+ [10] [11 <./avalanchesplenzbook3.png>]
 <dynamicrangetheorycopelli.png, id=58, 448.67625pt x 298.11375pt>
 File: dynamicrangetheorycopelli.png Graphic file (type png)
 
 <use dynamicrangetheorycopelli.png>
 Package pdftex.def Info: dynamicrangetheorycopelli.png used on input line 184.
 (pdftex.def)             Requested size: 455.24408pt x 302.489pt.
- [12] [13 <./dynamicrangetheorycopelli.png>] <dynamicrangeexpplenz.png, id=67, 
-237.13594pt x 148.30406pt>
+ [12 <./dynamicrangetheorycopelli.png>]
+<dynamicrangeexpplenz.png, id=63, 237.13594pt x 148.30406pt>
 File: dynamicrangeexpplenz.png Graphic file (type png)
 
 <use dynamicrangeexpplenz.png>
 Package pdftex.def Info: dynamicrangeexpplenz.png used on input line 202.
 (pdftex.def)             Requested size: 273.14922pt x 170.83345pt.
 
-<entropyplenz.png, id=68, 192.72pt x 158.09062pt>
+<entropyplenz.png, id=64, 192.72pt x 158.09062pt>
 File: entropyplenz.png Graphic file (type png)
  <use entropyplenz.png>
 Package pdftex.def Info: entropyplenz.png used on input line 211.
 (pdftex.def)             Requested size: 227.62204pt x 186.72139pt.
 
-[14 <./dynamicrangeexpplenz.png>] [15 <./entropyplenz.png>] [16]
+[13] [14 <./dynamicrangeexpplenz.png> <./entropyplenz.png>] [15] [16]
 ("Comps II_2.bbl" [17] [18]) [19] ("Comps II_2.aux") ) 
 Here is how much of TeX's memory you used:
  2393 strings out of 493634
  38577 string characters out of 3131974
- 98446 words of memory out of 3000000
+ 99446 words of memory out of 3000000
  5781 multiletter control sequences out of 15000+200000
  19116 words of font info for 41 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -239,7 +240,7 @@ sers/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr
 8a.pfb><C:/Users/Kevin Gilmore/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmri8a.pfb>
 Output written on "E:/Kevin Gilmore/Documents/Github/Comps-II/Comps II/build/Co
-mps II_2.pdf" (19 pages, 555026 bytes).
+mps II_2.pdf" (19 pages, 532849 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
